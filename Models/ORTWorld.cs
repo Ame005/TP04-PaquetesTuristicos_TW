@@ -8,7 +8,7 @@ class ORTWorld{
 
     public static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete){
         bool coincidencia=false;
-        if(Paquetes.ContainsKey(destinoSeleccionado)){
+        if(!Paquetes.ContainsKey(destinoSeleccionado)){
             coincidencia=true;
             Paquetes.Add(destinoSeleccionado,paquete);
         }

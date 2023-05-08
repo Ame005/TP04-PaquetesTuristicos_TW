@@ -4,18 +4,5 @@
 
 <h1 class="display-4">TP-Calculadora</h1>
 
-<form action='@Url.Action("Calcular")'>
-    <p>Ingrese num1</p>
-    <input type="number" name="num1"><br><br>
-    <select name="operacion">
-        <option>+</option>
-        <option>-</option>
-        <option>*</option>
-        <option>/</option>
-        <option>^</option>
-    </select>
-    <p>Ingrese num2</p>
-    <input type="number" name="num2"><br><br>
-    <input type="submit" value="=">
-</form>
+<a @Url.Action(nameof(HomeController.SelectPaquete))>
 <h3>@ViewBag.Resultado</h3>

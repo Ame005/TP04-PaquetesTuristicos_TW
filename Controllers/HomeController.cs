@@ -26,8 +26,15 @@ public class HomeController : Controller
         return View();
     }
     public IActionResult GuardarPaquete(int Destino, int Hotel, int Aereo, int Excursion){
-        
-        return View();
+        if(Destino>0&&Hotel>0&&Aereo>0&&Excursion>0){
+            Paquete nuevo = new Paquete(ORTWorld.ListaHoteles[Hotel],ORTWorld.ListaAereos[Aereo],ORTWorld.ListaExcursiones[Excursion]);
+            ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino],nuevo);
+            return View("Index");
+        }
+        else{
+            ViewBag.ComentarioError="Lo ingresado no es válido. Por favor ingrese opciones del menú";
+            return View("SelectPaquete");
+        }
     }
 
     public IActionResult Privacy()
