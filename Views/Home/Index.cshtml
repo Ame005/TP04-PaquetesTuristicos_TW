@@ -4,5 +4,9 @@
 
 <h1 class="display-4">TP-Calculadora</h1>
 
-<a @Url.Action(nameof(HomeController.SelectPaquete))>
+<a href='@Url.Action("SelectPaquete")' alt="Ir a la selección de paquetes">Select Paquete</a>
+@foreach (string destino in ViewBag.Paquetes.Keys)
+{
+    <p>@destino tiene el paquete @ViewBag.Paquetes[destino]</p>
+}
 <h3>@ViewBag.Resultado</h3>

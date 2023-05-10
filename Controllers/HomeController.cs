@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using TP04-PaquetesTuristicos_TorreWalsh.Models;
+using TP04_PaquetesTuristicos_TorreWalsh.Models;
 
-namespace TP04-PaquetesTuristicos_TorreWalsh.Controllers;
+namespace TP04_PaquetesTuristicos_TorreWalsh.Controllers;
 
 public class HomeController : Controller
 {

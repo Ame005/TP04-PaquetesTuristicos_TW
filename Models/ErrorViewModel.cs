@@ -1,4 +1,4 @@
-namespace TP04-PaquetesTuristicos_TorreWalsh.Models;
+namespace TP04_PaquetesTuristicos_TorreWalsh.Models;
 
 public class ErrorViewModel
 {

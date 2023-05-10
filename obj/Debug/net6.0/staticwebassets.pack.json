@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP-algo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP-algo.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\aeromexico.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\aeromexico.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\airCanada.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\airCanada.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\airFrance.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\airFrance.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\americanAirlines.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\americanAirlines.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\avianca.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\avianca.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\boa.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\boa.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\british.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\british.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\emirates.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\emirates.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\iberia.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\iberia.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\latam.jpg",
+      "PackagePath": "staticwebassets\\img\\aerolineas\\latam.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\buceo.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\buceo.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\canotaje.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\canotaje.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\ciclismo.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\ciclismo.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\helicoptero.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\helicoptero.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\museo.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\museo.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\parqueAgua.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\parqueAgua.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\ski.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\ski.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\teatro.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\teatro.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\tirolesa.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\tirolesa.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\trekking.jpg",
+      "PackagePath": "staticwebassets\\img\\excursiones\\trekking.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\4seasons.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\4seasons.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\clubMedSandPiper.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\clubMedSandPiper.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\hilton.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\hilton.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\holidayInn.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\holidayInn.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\iberostar.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\iberostar.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\ibis.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\ibis.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\llaollao.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\llaollao.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\marriot.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\marriot.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\novotel.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\novotel.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\sheraton.jpg",
+      "PackagePath": "staticwebassets\\img\\hoteles\\sheraton.jpg"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP-algo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TP-algo.props",
+      "PackagePath": "build\\TP-algo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TP-algo.props",
+      "PackagePath": "buildMultiTargeting\\TP-algo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TP-algo.props",
+      "PackagePath": "buildTransitive\\TP-algo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
