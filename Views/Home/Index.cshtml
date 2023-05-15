@@ -2,11 +2,15 @@
     ViewData["Title"] = "Home Page";
 }
 
-<h1 class="display-4">TP-Calculadora</h1>
+<h3 class="display-4">TP-PaquetesTuristicos</h3>
 
 <a href='@Url.Action("SelectPaquete")' alt="Ir a la selección de paquetes">Select Paquete</a>
 @foreach (string destino in ViewBag.Paquetes.Keys)
 {
-    <p>@destino tiene el paquete @ViewBag.Paquetes[destino]</p>
+    <div class="newpaquete">
+    <h2>@destino tiene el paquete</h2>
+    <img src="~/img/hoteles/@ViewBag.Paquetes[destino].Hotel">
+    <img src="~/img/aerolineas/@ViewBag.Paquetes[destino].Aereo">
+    <img src="~/img/excursiones/@ViewBag.Paquetes[destino].Excursion">
+    </div>
 }
-<h3>@ViewBag.Resultado</h3>

@@ -25,10 +25,11 @@ public class HomeController : Controller
         ViewBag.Excursiones=ORTWorld.ListaExcursiones;
         return View();
     }
-    public IActionResult GuardarPaquete(int Destino, int Hotel, int Aereo, int Excursion){
-        if(Destino>0&&Hotel>0&&Aereo>0&&Excursion>0){
-            Paquete nuevo = new Paquete(ORTWorld.ListaHoteles[Hotel],ORTWorld.ListaAereos[Aereo],ORTWorld.ListaExcursiones[Excursion]);
-            ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino],nuevo);
+    public IActionResult GuardarPaquete(string Destino, string Hotel, string Aereo, string Excursion){
+        if(Destino!=""&&Hotel!=""&&Aereo!=""&&Excursion!=""){
+            Paquete nuevo = new Paquete(Hotel,Aereo,Excursion);
+            ORTWorld.IngresarPaquete(Destino,nuevo);
+            ViewBag.Paquetes=ORTWorld.Paquetes;
             return View("Index");
         }
         else{

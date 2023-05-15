@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj": {}
+    "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj": {}
   },
   "projects": {
-    "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj": {
+    "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj",
+        "projectUniqueName": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj",
         "projectName": "TP-algo",
-        "projectPath": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj",
+        "projectPath": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj",
         "packagesPath": "C:\\Users\\47757058\\.nuget\\packages\\",
-        "outputPath": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\",
+        "outputPath": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,8 +49,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
