@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OFbQAh0P6C8fk1t/BCJCtuVNdtLQsGvt31kt7E24eTE0O5tliRhXs335k/hUqG7fL+BSWC5ZHCbUsZ76Hbk+Iw==",
+=======
+  "dgSpecHash": "NKgnnsIO7mQBF04ozM7cBr4Q3fqRjdxa5xlPNJoAPd22im1+ufxG6xIQrMqYMokn2DdbxwujV8D9aBQs6ToepQ==",
+>>>>>>> be9f1bfc166b2175abe21614948554333de97f40
   "success": true,
   "projectFilePath": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\TP-algo.csproj",
   "expectedPackageFiles": [],
