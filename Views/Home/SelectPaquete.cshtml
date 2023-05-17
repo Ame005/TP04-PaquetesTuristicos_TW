@@ -1,23 +1,24 @@
 @{
     ViewData["Title"] = "Select Paquete";
 }
-<form action=@Url.Action("GuardarPaquete")>
-    @for(int i =0;i<ViewBag.ListaDestinos.Count;i++)
-    {
-        <select name="destino">
-            <option>@ViewBag.ListaDestinos[i]</option>
-        </select>
-    }
-    <input type="number" name="destinoElegido"><br><br>
-    @for(int i =0;i<ViewBag.ListaHoteles.Count;i++)
-    {
-        <input type="radio" name="hoteles" value="imagen[i]"><img src="img/hoteles/@ViewBag.ListaHoteles[i]" width=6px height=auto>
-    }
-    @foreach(string aereo in ViewBag.ListaAereos){
-        <input type="radio" name="aereos" value="imagen[aereo]"><img src="img/aerolineas/@ViewBag.ListaAereos[aereo]" width=6px height=auto>
-    }
-    @foreach(string excursion in ViewBag.ListaExcursiones){
-        <input type="radio" name="excursion" value="imagen[excursion]"><img src="img/excursiones/@ViewBag.ListaExcursiones[excursion]" width=6px height=auto>
-    }
+<h4>@ViewBag.ComentarioError</h4>
+<form action='@Url.Action("GuardarPaquete")'>
+    <select name="destino">
+        <option value='0'>Seleccione una opción</option>
+    @for(int i=0;i<ViewBag.Destinos.Count;i++){
+            <option value=@(i+1)>@ViewBag.Destinos[i]</option>
+    }</select><br><br>
+    <h3>Hoteles:</h3>
+    @foreach(string hotel in ViewBag.Hoteles){
+        <label><input type="radio" name="hotel" value="@hotel"><img src="~/img/hoteles/@hotel" width=200px height=auto></label>
+    }<br><br>
+    <h3>Aerolineas:</h3>
+    @foreach(string aereo in ViewBag.Aerolineas){
+        <label><input type="radio" name="aereo" value="@aereo"><img src="~/img/aerolineas/@aereo" width=200px height=auto></label>
+    }<br><br>
+    <h3>Excursiones:</h3>
+    @foreach(string excursion in ViewBag.Excursiones){
+        <label><input type="radio" name="excursion" value="@excursion"><img src="~/img/excursiones/@excursion" width=200px height=auto></label>
+    }<br><br>
     <input type="submit" value="Crear Paquete">
 </form>
