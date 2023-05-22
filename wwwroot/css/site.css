@@ -84,10 +84,14 @@ h2{
 .divSup h3{
   float:left;
 }
+.divSup{
+  width: 100%;
+}
 .divSup img{
+  float: right;
   width: 50px;
   height: auto;
-  float: right;
+  margin-right: 50px;
 }
 h4{
   color: darkred;
