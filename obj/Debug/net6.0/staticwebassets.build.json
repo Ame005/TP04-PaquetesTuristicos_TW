@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gV2pe8bsI3Tskw87g36vOYA+dFEqjPmshwp8ubSszpI=",
+  "Hash": "hrve0sWwv1goBNZiNN6+VveCza21vnypkB3QWzhXRv4=",
   "Source": "TP-algo",
   "BasePath": "_content/TP-algo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP-algo\\wwwroot",
       "Source": "TP-algo",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TP-algo.styles.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TP-algo.styles.css",
       "SourceId": "TP-algo",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "TP-algo.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TP-algo.styles.css"
+      "OriginalItemSpec": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TP-algo.styles.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP-algo.bundle.scp.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP-algo.bundle.scp.css",
       "SourceId": "TP-algo",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "TP-algo.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP-algo.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP-algo.bundle.scp.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\css\\site.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\favicon.ico",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\aeromexico.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\aeromexico.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/aeromexico.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\aeromexico.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\airCanada.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\airCanada.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/airCanada.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\airCanada.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\airFrance.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\airFrance.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/airFrance.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\airFrance.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\americanAirlines.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\americanAirlines.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/americanAirlines.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\americanAirlines.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\avianca.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\avianca.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/avianca.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\avianca.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\boa.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\boa.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/boa.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\boa.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\british.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\british.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/british.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\british.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\emirates.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\emirates.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/emirates.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\emirates.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\iberia.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\iberia.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/iberia.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\iberia.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\latam.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\aerolineas\\latam.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/aerolineas/latam.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aerolineas\\latam.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\buceo.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\buceo.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/buceo.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\buceo.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\canotaje.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\canotaje.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/canotaje.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\canotaje.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\ciclismo.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\ciclismo.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/ciclismo.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\ciclismo.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\helicoptero.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\helicoptero.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/helicoptero.jpg",
       "AssetKind": "All",
@@ -323,12 +323,12 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\helicoptero.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\museo.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\museoVan.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
-      "RelativePath": "img/excursiones/museo.jpg",
+      "RelativePath": "img/excursiones/museoVan.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\excursiones\\museo.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\excursiones\\museoVan.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\parqueAgua.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\parqueAgua.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/parqueAgua.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\parqueAgua.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\ski.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\ski.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/ski.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\ski.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\teatro.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\teatro.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/teatro.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\teatro.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\tirolesa.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\tirolesa.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/tirolesa.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\tirolesa.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\trekking.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\excursiones\\trekking.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/excursiones/trekking.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursiones\\trekking.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\4seasons.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\4seasons.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/4seasons.jpg",
       "AssetKind": "All",
@@ -442,12 +442,12 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\4seasons.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\clubMedSandPiper.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\clubMed.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
-      "RelativePath": "img/hoteles/clubMedSandPiper.jpg",
+      "RelativePath": "img/hoteles/clubMed.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\hoteles\\clubMedSandPiper.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\hoteles\\clubMed.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\hilton.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\hilton.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/hilton.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\hilton.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\holidayInn.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\holidayInn.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/holidayInn.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\holidayInn.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\iberostar.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\iberostar.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/iberostar.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\iberostar.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\ibis.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\ibis.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/ibis.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\ibis.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\llaollao.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\llaollao.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/llaollao.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\llaollao.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\marriot.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\marriot.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/marriot.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\marriot.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\novotel.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\novotel.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/novotel.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\novotel.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\sheraton.jpg",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\sheraton.jpg",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/hoteles/sheraton.jpg",
       "AssetKind": "All",
@@ -595,10 +595,44 @@
       "OriginalItemSpec": "wwwroot\\img\\hoteles\\sheraton.jpg"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\Thumbs.db",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\hoteles\\Thumbs.db",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "BasePath": "_content/TP-algo",
+      "RelativePath": "img/hoteles/Thumbs.db",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\hoteles\\Thumbs.db"
+    },
+    {
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\tachoBasura.jpg",
+      "SourceId": "TP-algo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "BasePath": "_content/TP-algo",
+      "RelativePath": "img/tachoBasura.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tachoBasura.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\img\\Thumbs.db",
+      "SourceId": "TP-algo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -612,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\js\\site.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -629,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -646,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -663,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -680,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -697,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -714,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -731,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -748,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -765,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -782,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -799,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -816,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -833,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -850,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -867,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -884,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -901,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -918,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -935,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -952,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -969,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -986,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1003,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1020,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1156,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1173,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1190,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1207,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1224,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1241,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1258,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1275,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1292,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1326,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1343,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1360,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1377,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1394,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1411,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1428,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1445,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1462,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1479,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1496,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1513,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1530,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1564,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1581,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP-algo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4\\4ID\\Prog\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47757058\\Desktop\\TP04-PaquetesTuristicos_TorreWalsh\\wwwroot\\",
       "BasePath": "_content/TP-algo",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

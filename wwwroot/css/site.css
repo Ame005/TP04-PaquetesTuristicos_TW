@@ -12,7 +12,83 @@ html {
   position: relative;
   min-height: 100%;
 }
-
+img{
+  height: 160px;
+  width: 260px;
+  margin: 15px;
+  float: left;
+}
 body {
   margin-bottom: 60px;
+  background-color: blanchedalmond;
+}
+div{
+  display: inline-block;
+  float: left;
+  margin: 15px;
+}
+h3{
+  text-decoration: underline;
+  color: goldenrod;
+  margin: 25px;
+}
+h2{
+  color: rgb(226, 183, 72);
+  margin-left: 25px;
+}
+.newpaquete{
+  border: 3px solid gray;
+  margin: 15px;
+  padding: 5px;
+  width: auto;
+}
+.divImg{
+  clear: both;
+}
+.divImg img{
+  height: 120px;
+  width: 195px;
+  padding: 5px;
+}
+.newpaquete h3{
+  text-align: center;
+  color: rgb(153, 146, 128);
+}
+[type=radio] { 
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+[type=radio] + img {
+  cursor: pointer;
+}
+
+[type=radio]:checked + img {
+  outline: 4px solid rgb(0, 0, 0);
+}
+[type=submit]{
+  display: block;
+  height: auto;
+  width: auto;
+  background-color: rgb(41, 117, 41);
+  border-color: rgb(41, 117, 41);
+  color: aliceblue;
+  font-weight: bold;
+  padding: 15px;
+  margin: auto;
+  margin-bottom: 5px;
+  font-size: 25px;
+}
+.divSup h3{
+  float:left;
+}
+.divSup img{
+  width: 50px;
+  height: auto;
+  float: right;
+}
+h4{
+  color: darkred;
 }
